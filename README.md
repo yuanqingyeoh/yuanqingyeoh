@@ -1,18 +1,33 @@
 # Hello there 👋
 
-🔭 I’m currently working as Software Engineer using Spring Boot and Angular Stack.
+<!--🔭 I’m currently working as Software Engineer using Spring Boot and Angular Stack. -->
 
-🌱 Interested in:
-- Reinforcement Learning
-- Backend Engineering
-- Data Engineering
+Software Engineer with 2+ years of experience in designing and developing web applications and APIs using Java, Python, and JavaScript/TypeScript. Proven ability in developing user interfaces, integrating external systems, and optimizing algorithm performance.
+
+<!--⚡ Developed a real-time pipeline to process streaming trade data injested from websocket using Apache Flink.-->
 
 📫 How to reach me: [LinkedIn](linkedin.com/in/yuanqingyeoh/)
 
----
 
-## Technologies I have worked with
+## Skills
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/angular-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apacheflink-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-light.svg" width="50"></a>
 
+
+<!--
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -31,8 +46,7 @@
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=6aa6f8)
 <br/>
-
-
+-->
 
 
 <!--
