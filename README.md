@@ -8,7 +8,7 @@ Software Engineer with 2+ years of experience in designing and developing web ap
 
 📫 How to reach me: [LinkedIn](linkedin.com/in/yuanqingyeoh/)
 
-
+<!--
 ## Skills
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
@@ -25,7 +25,7 @@ Software Engineer with 2+ years of experience in designing and developing web ap
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-light.svg" width="50"></a>
-
+-->
 
 <!--
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
